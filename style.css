@@ -167,6 +167,10 @@ body {
   padding: 0;
 }
 
+#counter img {
+  background: transparent !important;
+}
+
 /* 右ブロック */
 #right {
   flex: 1;
