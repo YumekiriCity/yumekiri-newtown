@@ -169,13 +169,13 @@ body {
 
 #counter {
   text-align: center;
-  padding: 8px 100;
+  padding: 8px 10px;
   font-size: 11px;
   margin-bottom: 8px;
 }
 
 #counter p {
-  margin: 2px 10;
+  margin: 2px 10px;
 }
 
 /* 右ブロック */
