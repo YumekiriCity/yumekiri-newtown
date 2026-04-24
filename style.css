@@ -107,7 +107,10 @@ body {
 #menu-emblem {
   text-align: center;
   padding: 9px 8px 10px 8px;
-  margin-top: 20px;
+  position: fixed;
+  bottom: 20px;
+  left: 0;
+  width: 160px;
 }
 
 #menu-emblem img {
