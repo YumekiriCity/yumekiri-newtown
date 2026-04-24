@@ -167,8 +167,16 @@ body {
   padding: 0;
 }
 
-#counter img {
-  background: transparent !important;
+#counter {
+  text-align: center;
+  padding: 8px 0;
+  font-size: 11px;
+  border-bottom: 1px solid #c8e6c8;
+  margin-bottom: 8px;
+}
+
+#counter p {
+  margin: 2px 0;
 }
 
 /* 右ブロック */
