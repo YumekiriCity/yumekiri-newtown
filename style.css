@@ -170,14 +170,13 @@ body {
 #counter {
   text-align: left;
   padding: 8px 10px;
-  font-size: 8px;
   border-bottom: 1px solid #c8e6c8;
   margin-bottom: 8px;
 }
 
 #counter p {
   margin: 2px 5px;
-  font-size: 8px !important;
+  font-size: 10px !important;
 }
 
 /* 右ブロック */
