@@ -359,3 +359,18 @@ table td {
 .no-new {
   padding-left: 45px;
 }
+
+
+.video-wrap {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+}
+
+.video-wrap iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
