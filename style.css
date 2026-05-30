@@ -365,6 +365,7 @@ table td {
   position: relative;
   width: 100%;
   padding-top: 56.25%;
+  max-width: 100%;
 }
 
 .video-wrap iframe {
